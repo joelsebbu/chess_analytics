@@ -1,0 +1,15 @@
+name: py-chess
+channels:
+  - defaults
+dependencies:
+    - python=3.10
+    - pip
+    - pip:
+      # jupyter setup
+      - ipykernel==6.29.4
+      - ipywidgets==8.1.3
+      # python libs
+      - python-dotenv==1.0.1
+      - pandas==2.2.2
+      # chess
+      - chess==1.11.1
