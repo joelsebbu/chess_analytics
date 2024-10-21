@@ -1,4 +1,5 @@
 /lichess_db_standard_rated_2016-03
 *.pgn
 *.zst
+*.zip
 /__pycache__
