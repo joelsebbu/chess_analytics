@@ -3,3 +3,5 @@
 *.zst
 *.zip
 /__pycache__
+*.csv
+*.csv#
